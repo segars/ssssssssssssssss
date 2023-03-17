@@ -1,0 +1,33 @@
+.d1{
+    
+    border-radius: 4%;
+    background-color: aqua;
+    
+    
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+p{
+    color:black;
+    text-align: center;
+    font-family: serif;
+    font-size: 200%;
+}
+
+body{
+    background-image: url(image2.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:  fixed;
+}
+
+#ims{
+    margin-left: 600px;
+
+}
